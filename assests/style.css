@@ -1,0 +1,16 @@
+.con {
+    background-image: url(./img/ShinyOverlay.svg);
+
+}
+
+@media (max-width: 520px) {
+    .x {
+        font-size: small !important;
+    }
+}
+
+@media (max-width: 345px) {
+    .x {
+        font-size: 10px !important;
+    }
+}
