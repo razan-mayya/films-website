@@ -9,6 +9,14 @@
     }
 }
 
+@media (max-width: 575px) {
+    .b {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 @media (max-width: 345px) {
     .x {
         font-size: 10px !important;
